@@ -66,9 +66,9 @@
 		<!-- 没找到合适且稳定的 Oracle 的 JDBC Maven 依赖，已在 libs 目录放了对应的 jar 包来替代 -->
 
 		<dependency>
-			<groupId>com.github.APIJSON</groupId>
+			<groupId>apijson.framework</groupId>
 			<artifactId>apijson-framework</artifactId>
-			<version>LATEST</version>
+			<version>4.0.0</version>
 		</dependency>
 
 	</dependencies>
